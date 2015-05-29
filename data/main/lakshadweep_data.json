@@ -1,0 +1,86 @@
+[
+  {
+    "sno": "1",
+    "title": "AL QALAM",
+    "regnno": "40898/89",
+    "langcode": "MAL",
+    "periodicity": "MONTHLY",
+    "publicationcitydistrict": "LAKSHADWEEP",
+    "publisher": "BADAKARA ABADULLAKOYA MUSLIYAR",
+    "addressofplaceofpublication": "NA",
+    "link": "http://rni.nic.in/display_details.asp?regn=40898",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "2",
+    "title": "DWEEP TIMES",
+    "regnno": "LAKMAL/2001/04929",
+    "langcode": "MAL",
+    "periodicity": "WEEKLY",
+    "publicationcitydistrict": "LAKSHADWEEP",
+    "publisher": "P AMEER, PUTHIYATHAN",
+    "addressofplaceofpublication": "NA",
+    "link": "http://rni.nic.in/display_details.asp?regn=77486",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "3",
+    "title": "DWEEPA PRABHA",
+    "regnno": "61839/95",
+    "langcode": "MAL",
+    "periodicity": "QUARTERLY",
+    "publicationcitydistrict": "LAKSHWADEEP 682555",
+    "publisher": "U CHERIYAKOYA THANGAL",
+    "addressofplaceofpublication": "NA",
+    "link": "http://rni.nic.in/display_details.asp?regn=61839",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "4",
+    "title": "JAZEERA",
+    "regnno": "40915/88",
+    "langcode": "MAL",
+    "periodicity": "FORTNIGHTLY",
+    "publicationcitydistrict": "KAVARATTI",
+    "publisher": "",
+    "addressofplaceofpublication": "NA",
+    "link": "http://rni.nic.in/display_details.asp?regn=40915",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "5",
+    "title": "PAVIZHADWEEP",
+    "regnno": "LAKMAL/2001/04936",
+    "langcode": "MAL",
+    "periodicity": "FORTNIGHTLY",
+    "publicationcitydistrict": "LAKSHADWEEP",
+    "publisher": "P.AMEER",
+    "addressofplaceofpublication": "NA",
+    "link": "http://rni.nic.in/display_details.asp?regn=77493",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "6",
+    "title": "RAYDHUVAA MALIKU EXPRESS",
+    "regnno": "LAKBIL/2011/42058",
+    "langcode": "BIL",
+    "periodicity": "WEEKLY",
+    "publicationcitydistrict": "LAKSHADWEEP",
+    "publisher": " DR. ABDUL MUNEER",
+    "addressofplaceofpublication": "MURAADUGANDUVAR, NEAR JUMA MASJID, FUNHILOL, MINICOY  -682559, LAKSHADWEEP",
+    "link": "http://rni.nic.in/display_details.asp?regn=114615",
+    "state": "LAKSHADWEEP"
+  },
+  {
+    "sno": "7",
+    "title": "THE ISLAND EXPRESS",
+    "regnno": "LAKMAL/2009/41514",
+    "langcode": "MAL",
+    "periodicity": "WEEKLY",
+    "publicationcitydistrict": "LAKSHADWEEP",
+    "publisher": "V.V. ABDUL RASHEED",
+    "addressofplaceofpublication": "AL- JASEERA PUBLICATIONS & ADVERTISING AGENCY AGATTI  ISLAND, LAKSHADWEEP.",
+    "link": "http://rni.nic.in/display_details.asp?regn=114071",
+    "state": "LAKSHADWEEP"
+  }
+]
